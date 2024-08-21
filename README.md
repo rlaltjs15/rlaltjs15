@@ -3,12 +3,15 @@
 
 #  Introduction
 이메일 : rlaltjs15@naver.com
+
 블로그 : https://blog.naver.com/rlaltjs15
+
 취  미 : 수영
 
 #  Project
 Jjol?(온라인 학습 플랫폼)
 
+#  GitHub Stats
 ![rlaltjs15's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaltjs15&theme=graywhite&show_icons=true)
 
 #  Skills
