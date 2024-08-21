@@ -1,8 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=HeeSun%20Kim&fontSize=70&color=0:FFFFFF,100:C0C0C0&stroke=00000000)
 ![subheader](https://capsule-render.vercel.app/api?type=rect&height=50&text=Beginner%20Developer&fontSize=20&color=FFFFFF&stroke=00000000)
 
-![rlaltjs15's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaltjs15&theme=graywhite&show_icons=true)
+#  Introduction
+이메일 : rlaltjs15@naver.com
+블로그 : https://blog.naver.com/rlaltjs15
+취  미 : 수영
 
+#  Project
+Jjol?(온라인 학습 플랫폼)
+
+![rlaltjs15's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaltjs15&theme=graywhite&show_icons=true)
 
 #  Skills
 
@@ -31,6 +38,8 @@
 ### IDEs
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+
+<hr>
 
 # Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:azddochi@naver.com)](mailto:rlaltjs15@naver.com)
